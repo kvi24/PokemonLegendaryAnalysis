@@ -4,7 +4,9 @@ Analyzing whether the Pokemon is Legendary or not using Machine Learning
 This database includes 21 variables per each of the 721 Pokémon of the first six generations, plus the Pokémon ID and its name. These variables are briefly described next:
 
 Number. Pokémon ID in the Pokédex.
+
 Name. Name of the Pokémon.
+
 Type_1. Primary type.
 Type_2. Second type, in case the Pokémon has it.
 Total. Sum of all the base stats (Health Points, Attack, Defense, Special Attack, Special Defense, and Speed).
